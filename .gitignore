@@ -1,2 +1,9 @@
-#ignora a totes les carpetes que posen temp
-temp/
+# Ignora el fitxers de registre
+
+*.log
+
+
+
+#Ignora la carpeta de esborrayns
+
+esborranyns/
